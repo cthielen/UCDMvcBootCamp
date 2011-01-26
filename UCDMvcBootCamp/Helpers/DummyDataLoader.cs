@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Data;
+using Mono.Data.Sqlite;
 using FluentNHibernate.Cfg;
 using NHibernate;
 using UCDMvcBootCamp.Core.Domain;
